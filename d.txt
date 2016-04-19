@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 aaaaaaww123 kalam
-=======
-aaaaaaww123
->>>>>>> live
+
+
